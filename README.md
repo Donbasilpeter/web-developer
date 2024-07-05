@@ -15,7 +15,7 @@ Web Developer is a desktop application that creates a web app as per requirement
 ## Installation
 
 1. **Download the executable:**
-   - Go to the [releases page](https://github.com/yourusername/web-developer/releases) of this repository and download the latest version of the `web-developer.exe` file.
+   - Go to the [releases page](https://github.com/Donbasilpeter/web-developer/releases) of this repository and download the latest version of the `web-developer.exe` file.
 
 2. **Run the executable:**
    - Double-click the downloaded `web-developer.exe` file to start the installation process.
@@ -33,9 +33,7 @@ Web Developer is a desktop application that creates a web app as per requirement
 - Once the application is installed and the API key is configured, you can start creating web apps based on your requirements.
 - Use the "Get Started" button to begin the process.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
 
@@ -50,5 +48,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please open an issue on this repository or contact [your email/contact info].
+For any questions or support, please open an issue on this repository or contact [donbasilpeter@gmail.com].
 
