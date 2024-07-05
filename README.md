@@ -4,9 +4,8 @@ Web Developer is a desktop application that creates a web app as per requirement
 
 ## Features
 
-- Create web apps based on user requirements
-- Utilizes OpenAI API for generating web content
-- Built with LangChain, Electron, and React for seamless performance and modern UI
+- Effortless Web App Creation: Simply input your app requirements, and let Web Developer do the heavy lifting for you.
+- Download and Save: Once generated, download and save your app directly to your system.
 
 ## Prerequisites
 
@@ -40,6 +39,9 @@ Web Developer is a desktop application that creates a web app as per requirement
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
+
+- Utilizes OpenAI API for generating web content
+- Built with LangChain, Electron, and React for seamless performance and modern UI
 
 - [LangChain](https://github.com/langchain/langchain)
 - [Electron](https://www.electronjs.org/)
