@@ -4,26 +4,27 @@ Web Developer is a desktop application that creates a web app as per requirement
 
 ## Features
 
-- Effortless Web App Creation: Simply input your app requirements, and let Web Developer do the heavy lifting for you.
-- Download and Save: Once generated, download and save your app directly to your system.
+- **Effortless Web App Creation**: Simply input your app requirements, and let Web Developer do the heavy lifting for you.
+- **Download and Save**: Once generated, download and save your app directly to your system.
+- **Browser Preview**: View your generated app in the browser by navigating to `localhost:3001`.
 
 ## Prerequisites
 
-- You need an OpenAI API key to run the application. If you don't have one, you can sign up at [OpenAI](https://beta.openai.com/signup/).
+- **OpenAI API Key**: You need an OpenAI API key to run the application. If you don't have one, you can sign up at [OpenAI](https://beta.openai.com/signup/).
 
 ## Installation
 
-1. **Download the executable:**
+1. **Download the Executable**:
    - Go to the [releases page](https://github.com/Donbasilpeter/web-developer/releases) of this repository and download the latest version of the `web-developer.exe` file.
 
-2. **Run the executable:**
+2. **Run the Executable**:
    - Double-click the downloaded `web-developer.exe` file to start the installation process.
    - Follow the on-screen instructions to complete the installation.
 
-3. **Open the application:**
+3. **Open the Application**:
    - After installation, open the Web Developer application from your desktop or start menu.
 
-4. **Enter OpenAI API key:**
+4. **Enter OpenAI API Key**:
    - On the first run, you will be prompted to enter your OpenAI API key.
    - Enter your API key and save it. The application will use this key to access OpenAI services.
 
@@ -31,12 +32,20 @@ Web Developer is a desktop application that creates a web app as per requirement
 
 - Once the application is installed and the API key is configured, you can start creating web apps based on your requirements.
 - Use the "Get Started" button to begin the process.
+- To view the generated app in your browser, navigate to `localhost:3001`.
 
+## Demo
 
+Check out the demo videos below to see Web Developer in action:
 
-## License
+### Ecommerce App
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+<iframe src="https://drive.google.com/file/d/1_h42tpwiW0_c688X2MqOTvkffqebJNb2/preview" width="640" height="480"></iframe>
+
+### Todo List App
+
+<iframe src="https://drive.google.com/file/d/18IjJVzBDgjBuXKPalmEO1r7stkVw_BtS/preview" width="640" height="480"></iframe>
+
 
 ## Acknowledgments
 
@@ -51,4 +60,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or support, please open an issue on this repository or contact [donbasilpeter@gmail.com].
-
