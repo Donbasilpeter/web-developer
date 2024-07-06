@@ -52,7 +52,7 @@ Check out the demo videos below to see Web Developer in action:
 - Utilizes OpenAI API for generating web content
 - Built with LangChain, Electron, and React for seamless performance and modern UI
 
-- [LangChain](https://github.com/langchain/langchain)
+- [LangChain](https://www.langchain.com/)
 - [Electron](https://www.electronjs.org/)
 - [React](https://reactjs.org/)
 - [OpenAI](https://openai.com/)
