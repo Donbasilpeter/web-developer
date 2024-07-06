@@ -38,14 +38,16 @@ Web Developer is a desktop application that creates a web app as per requirement
 
 Check out the demo videos below to see Web Developer in action:
 
+
+### Todo List App
+
+[Watch the full video](https://drive.google.com/file/d/18IjJVzBDgjBuXKPalmEO1r7stkVw_BtS/preview)
+
 ### Ecommerce App
 
 [Watch the full video](https://drive.google.com/file/d/1_h42tpwiW0_c688X2MqOTvkffqebJNb2/preview)
 
 
-### Todo List App
-
-[Watch the full video](https://drive.google.com/file/d/18IjJVzBDgjBuXKPalmEO1r7stkVw_BtS/preview)
 
 
 
