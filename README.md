@@ -40,11 +40,20 @@ Check out the demo videos below to see Web Developer in action:
 
 ### Ecommerce App
 
-<iframe src="https://drive.google.com/file/d/1_h42tpwiW0_c688X2MqOTvkffqebJNb2/preview" width="640" height="480"></iframe>
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1_h42tpwiW0_c688X2MqOTvkffqebJNb2/preview" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ### Todo List App
 
-<iframe src="https://drive.google.com/file/d/18IjJVzBDgjBuXKPalmEO1r7stkVw_BtS/preview" width="640" height="480"></iframe>
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/18IjJVzBDgjBuXKPalmEO1r7stkVw_BtS/preview" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 
 ## Acknowledgments
