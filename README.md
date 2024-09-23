@@ -12,6 +12,10 @@ Web Developer is a desktop application that creates a web app as per requirement
 
 - **OpenAI API Key**: You need an OpenAI API key to run the application. If you don't have one, you can sign up at [OpenAI](https://beta.openai.com/signup/).
 
+## Local Setup
+
+- Go to the [Repo](https://github.com/Donbasilpeter/Template-Generator) for the source code.
+
 ## Installation
 
 1. **Download the Executable**:
